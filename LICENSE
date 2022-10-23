@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 ZieddenCoding
+Copyright (c) 2022 Nico Zieten
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,25 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---------------------------------------------------------------------------
+ Portions of this software are redistributed under the following licenses:
+---------------------------------------------------------------------------
+
+Component name  : Newtonsoft.Json
+Used in         : Ziedden.ZConnect Classes
+Copyright holder: James Newton-King
+License type    : MIT
+License URL     : https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md
+
+Component name  : EmbedIO
+Used in         : Ziedden.ZConnect Classes
+Copyright holder: Unosquare, Mario A. Di Vece and Geovanni Perez
+License type    : MIT
+License URL     : https://github.com/unosquare/embedio/blob/master/LICENSE
+
+Component name  : DotNet
+Used in         : Ziedden.ZConnect Classes
+Copyright holder: Microsoft
+License type    : MIT
+License URL     : https://github.com/microsoft/dotnet/blob/main/LICENSE
